@@ -1,2 +1,4 @@
-# xmoai-waterqualitypaper
- 
+# Counterfactual Generation applied to Engineering
+This is the implementation of counterfactual generation - a XAI technique - with a multi-objective optimization heuristic used in the paper presented in the <a href="plm-conference.org/en/">IFIP 18th International Conference on Product Lifecycle Management</a> as "Assessing the Predictions of Machine Learning Algorithms in an Industrial Application Through Counterfactual Generation" by Monteiro and Reynoso-Meza (2021). The preprint is available <a href="http://dx.doi.org/10.13140/RG.2.2.27923.81446">here</a>.
+
+It uses the <a href="github.com/wmonteiro92/xmoai">XMOAI library</a> as the backend.
